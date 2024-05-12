@@ -1,0 +1,25 @@
+.dark {
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+.light {
+    background-color: white;
+    color: black;
+
+}
+#mode {
+    cursor: pointer;
+}
+#butOver{
+    cursor: pointer;
+}
+#mode:hover {
+    background-color: aquamarine;
+    color: black;
+}
+#butOver:hover {
+    background-color: aqua;
+    color: black;
+}
